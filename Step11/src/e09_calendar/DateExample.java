@@ -10,7 +10,7 @@ public class DateExample {
 		System.out.println(date.getTime());
 		date.setTime(0);
 		System.out.println(date);
-		
+
 		Date end = new Date(124, 11, 31);
 		System.out.println(end);
 	}
